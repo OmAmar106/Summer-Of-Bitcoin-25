@@ -13,5 +13,4 @@ This repository contains my assignments for Summer of Bitcoin 2024 done in pytho
 - Studied P2SH-P2WSH multisig transactions.  
 - Started constructing transactions using Bitcoin Core’s RPC.  
 - Worked on signing and broadcasting transactions.  
-- Passed 11/12 Tests
-- Python Library : bitcoinlib
+- Passed all Tests
