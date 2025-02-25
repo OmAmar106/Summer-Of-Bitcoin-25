@@ -1,6 +1,6 @@
-# Summer of Bitcoin 2024  
+# Summer of Bitcoin 2025
 
-This repository contains my assignments for Summer of Bitcoin 2024 done in python. 
+This repository contains my assignments for Summer of Bitcoin 2025 done in python. 
 
 ## Week 1  
 - Installed Docker and set up Bitcoin Core.  
